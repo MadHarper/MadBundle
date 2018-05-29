@@ -5,7 +5,7 @@
   "description": "Mad bundle",
   "autoload": {
     "psr-0": {
-      "MadHarper\\": ""
+      "MadHarper\\MadBundle": ""
     }
   },
   "require": {
