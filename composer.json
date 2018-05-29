@@ -1,0 +1,14 @@
+{
+  "name": "madharper/MadBundle",
+  "license": "MIT",
+  "type": "library",
+  "description": "Mad bundle",
+  "autoload": {
+    "psr-0": {
+      "MadHarper\\": ""
+    }
+  },
+  "require": {
+    "php": ">=7.0"
+  }
+}
