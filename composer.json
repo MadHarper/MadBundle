@@ -4,8 +4,8 @@
   "type": "library",
   "description": "Mad bundle",
   "autoload": {
-    "psr-0": {
-      "MadHarper\\MadBundle": ""
+    "psr-4": {
+      "MadHarper\\MadBundle\\": ""
     }
   },
   "require": {
